@@ -1,0 +1,15 @@
+PROJECT MANAGEMENT TOOL
+
+Application contains all the Functionalities related to project management,it is the all in one solution for project management
+
+Functionalities:-
+    Ticket Management
+    Video calling / Streaming
+    chat messaging
+    Tracking the projects
+    Dashboard 
+    Threads
+    Emails
+    sheets
+    white boards
+    
